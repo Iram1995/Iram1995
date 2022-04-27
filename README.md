@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Iram Manzoor ###
 - I have done my bachelors degree in Software Engineering from International Islamic University Islamabad.
 - I am an experienced FULL STACK developer, looking for exciting projects and new opportunities.
-- I am having Expertise of 3+ years. In this duration, I have handled various projects like CRM ,Team Collaboration web App, Customized Dashboard, mobile apps, and many more.
+- I am having Expertise of 4+ years. In this duration, I have handled various projects like CRM ,Team Collaboration web App, Customized Dashboard, mobile apps, and many more.
 
 - 🔭 I’m currently working on Microsoft CRM Dynamics ,C# ,MVC, Web API, Asp.net
 - 🌱 I’m currently learning Artifical Intelligence
